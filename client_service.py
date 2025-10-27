@@ -39,3 +39,8 @@ def generate_greenbill_statement(client_id):
 if __name__ == "__main__":
     # quick local test (this shouldn't be used in prod; it's intentionally insecure)
     print(generate_greenbill_statement(42))
+
+
+# Associated hosts:
+# techsoft.com
+# vulnweb.com
